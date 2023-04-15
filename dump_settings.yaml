@@ -22,8 +22,8 @@ MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: true
-  json_api: ''
+  json_api: https://kmar.top/
   list:
-  - - "\u5F20\u6D2Aheo"
-    - https://blog.zhheo.com/
-    - ''
+  - - "\u7A7A\u68A6"
+    - https://kmar.top/
+    - https://image.kmar.top/qqavatar.jpg
