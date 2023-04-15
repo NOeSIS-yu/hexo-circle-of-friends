@@ -22,7 +22,7 @@ MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: true
-  json_api: https://tzy1997.com/
+  json_api: https://blog.zhheo.com/
   list:
   - - "Fomalhaut\U0001F95D"
     - https://www.fomal.cc/
