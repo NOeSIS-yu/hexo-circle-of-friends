@@ -22,8 +22,8 @@ MAX_POSTS_NUM: 5
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
   enable: true
-  json_api: https://blog.zhheo.com/
+  json_api: ''
   list:
-  - - "Fomalhaut\U0001F95D"
-    - https://www.fomal.cc/
-    - https://sourcebucket.s3.ladydaily.com/img/avatar.webp
+  - - "\u5F20\u6D2Aheo"
+    - https://blog.zhheo.com/
+    - ''
